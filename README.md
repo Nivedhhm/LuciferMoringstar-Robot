@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="Darksnyder_Robot/modules/logo/DarkSnyder-Robot-Logo.jpeg" alt="DarkSnyder Robot Logo">
+  <img src="https://wallpaperaccess.com/download/black-panther-4k-ultra-hd-dark-811658" alt="DarkSnyder Robot Logo">
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/FCU_XJmyG_U">DARK SNYDER_BOT</a>
+  <a >DARK SNYDER_BOT</a>
 </p>
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />

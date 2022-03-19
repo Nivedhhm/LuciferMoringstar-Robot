@@ -32,7 +32,7 @@
 - [x] Custom Caption 
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/Nivedhhm/LuciferMoringstar-Robot"><img src="src="https://www.herokucdn.com/deploy/button.svg" alt="Dark Snyder" border="0" height="95" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Nivedhhm/LuciferMoringstar-Robot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Dark Snyder" border="0" height="95" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱

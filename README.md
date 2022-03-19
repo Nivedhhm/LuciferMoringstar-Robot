@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Darksnyder_Robot/modules/logo/DarkSnyder-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img src="Darksnyder_Robot/modules/logo/DarkSnyder-Robot-Logo.jpeg" alt="DarkSnyder Robot Logo">
 </p>
 
 <p align="center">

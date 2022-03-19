@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/download/black-panther-4k-ultra-hd-dark-811658" alt="DarkSnyder Robot Logo">
+  <img src="https://wallpaperaccess.com/download/black-panther-4k-ultra-hd-dark-811658.jpeg" alt="DarkSnyder Robot Logo">
 </p>
 
 <p align="center">

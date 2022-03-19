@@ -1,5 +1,4 @@
-<p align="center">
-   alt="DarkSnyder Robot Logo">
+
 </p>
 
 <p align="center">

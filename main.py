@@ -15,12 +15,12 @@ class LuciferMoringstar(Client):
 
     def __init__(self):
         super().__init__(
-            "LuciferMoringstar_Robot",
+            "DarkSnyder_Robot",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=B_KEYS,
             workers=50,
-            plugins={"root": "LuciferMoringstar_Robot"},
+            plugins={"root": "DarkSnyder_Robot"},
             sleep_threshold=5,
         )
 
@@ -38,5 +38,5 @@ class LuciferMoringstar(Client):
         print("Bot stopped. Bye.")
 
 
-app = LuciferMoringstar()
+app = DarkSnyder()
 app.run()

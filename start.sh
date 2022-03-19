@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /DarkSnyder-Robot
 fi
-cd /LuciferMoringstar-Robot
+cd /DarkSnyder-Robot
 pip3 install -U -r requirements.txt
 echo "Starting DarkSnyder RoBot...."
 python3 main.py
